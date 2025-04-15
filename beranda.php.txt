@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Halaman Web Sederhana</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f0f0f0;
+      padding: 40px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    img {
+      width: 200px;
+      margin-top: 20px;
+    }
+    button {
+      padding: 10px 20px;
+      background-color: #3498db;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-top: 20px;
+    }
+    button:hover {
+      background-color: #2980b9;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Selamat Datang di Halaman Saya!</h1>
+  <p>Ini adalah contoh halaman HTML sederhana dengan teks, gambar, dan tombol.</p>
+
+  <img src="https://via.placeholder.com/200" alt="Contoh Gambar">
+
+  <br>
+  <button onclick="alert('Halo, terima kasih sudah mengklik!')">Klik Saya</button>
+
+</body>
+</html>
