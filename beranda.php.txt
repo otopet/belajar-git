@@ -33,7 +33,7 @@
 </head>
 <body>
 
-  <h1>Selamat Datang di Halaman Saya!</h1>
+  <h1>Selama Datang di Halaman</h1>
   <p>Ini adalah contoh halaman HTML sederhana dengan teks, gambar, dan tombol.</p>
 
   <img src="https://via.placeholder.com/200" alt="Contoh Gambar">
